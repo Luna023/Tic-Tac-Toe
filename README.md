@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Gmae
+# Tic-Tac-Toe Game
 
 Welcome to the Tic-Tac-Toe game! This simple Python-based game allows you to play the classic Tic-Tac-Toe game against an AI opponent. The goal of the game is to get three of your marks in a row before the AI does.
 
